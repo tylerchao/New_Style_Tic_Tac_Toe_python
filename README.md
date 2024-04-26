@@ -7,4 +7,8 @@ Game rule:
 2. The winner condition will be the same. Once there is a line with three same tokens, then the player who has that token is the winner.
 
 Example: 
+
+
 <img width="491" alt="Screenshot 2024-04-26 at 4 08 02 PM" src="https://github.com/tylerchao/New_Style_Tic_Tac_Toe_python/assets/83348401/fb4a372e-c7f2-448a-8c88-fbcf491afbc7">
+
+
